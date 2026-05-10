@@ -13,3 +13,8 @@ ML framework for inverse design of frictional surfaces [available soon]()
 
 ### JAX elastohydrodynamic lubrication
 JAX code for GPU accelerate simulations of soft axysimmetric solid cushioned impacts [available soon]()
+
+---
+
+### Past Projects:
+- GNNs for shape classification in Spektral (2022) [code](https://github.com/Jaybil8/Graph-Neural-Network-notebook)
