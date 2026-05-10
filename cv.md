@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-*(You can also [download my full CV as a PDF here](/files/cv_short.pdf))*
+*(You can also [download my full CV as a PDF here](/assets/files/cv_short.pdf))*
 
 ## Education
 
