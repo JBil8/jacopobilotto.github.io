@@ -18,3 +18,5 @@ JAX code for GPU accelerate simulations of soft axysimmetric solid cushioned imp
 
 ### Past Projects:
 - GNNs for shape classification in Spektral (2022) [code](https://github.com/Jaybil8/Graph-Neural-Network-notebook)
+- Structural analyis of a bike frame (2022)
+- Geometric control of a quadcopter (2021)
