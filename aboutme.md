@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As of March 2023, I am a doctoral assistant (AKA PhD student) at EPFL (Switzerland) and a MSCA fellow.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Previously I was an intern at ASML, the largest semiconductor company in Europe, in the tribology and surface science group.
+I also had done a short stint at the Italian Institute of Nuclear Phyiscs (INFN) in Frascati and at EPFL as an E3 fellow.
 
-What else do you need?
+I love connecting the dots, and tackle tough problems.
+My plan with this website is to share more of what I do with the broader research and industrial community.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have been part of the LauzHack committee for 3 years.
