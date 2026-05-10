@@ -10,17 +10,13 @@ title: Research
 
 ![enf2enf paper cover](/assets/img/overview_inverse_design.png){: width="600px" }
 
-**Abstract:** Programming the static friction of mechanical interfaces is critical for soft robotics, haptics, and precision gripping.
-Static friction is governed by the real contact area, and standard rough surfaces exhibit a linear area-load scaling inherent to classical Archard and Greenwood-Williamson models, severely restricting their functional range. 
-Here, we propose a framework for the inverse design of tribological metainterfaces engineered for programmable contact behaviors.
-By utilizing general axisymmetric asperities, we unlock nonlinear macroscopic responses unattainable by standard Hertzian contacts.
-To solve the inverse problem, we embed a fully differentiable contact mechanics engine within a neural network ...  [shortened for brevity]
+**Abstract:** Programming the static friction of mechanical interfaces is critical for soft robotics, haptics, and precision gripping. Static friction is governed by the real contact area, and standard rough surfaces exhibit a linear area-load scaling inherent to classical Archard and Greenwood-Williamson models, severely restricting their functional range. Here, we propose a framework for the inverse design of tribological metainterfaces engineered for programmable contact behaviors. By utilizing general axisymmetric asperities, we unlock nonlinear macroscopic responses unattainable by standard Hertzian contacts. To solve the inverse problem, we embed a fully differentiable contact mechanics engine within a neural network ...  [shortened for brevity]
 
 [Paper PDF](https://arxiv.org/pdf/2603.25252) | [Code](available soon) | [Data](available soon)  
 
 
 ### Mapping the limits of equilibrium in sheared granular liquid crystals (2026)
-*arXiv*
+*arXiv, 2603.25252*
 
 ![enf2enf paper cover](/assets/img/equilibrium_jeffery.png){: width="600px" }
 
@@ -34,8 +30,7 @@ To solve the inverse problem, we embed a fully differentiable contact mechanics 
 
 ![enf2enf paper cover](/assets/img/figure_1_rheology.png){: width="600px" }
 
-**Abstract:** The rheology of dense granular shear flows is influenced by friction and particle shape. We investigate numerically the impact of non-spherical particle geometries under shear on packing fraction, stress ratios, velocity fluctuations, force distribution, and dissipation mechanisms, for a wide range of inertial numbers, friction coefficients and aspect ratios. We obtain a regime diagram for the dissipation which shows that lentil-like (oblate) particles exhibit an extended sliding regime com-
-pared to rice-like (prolate) particles with the same degree of eccentricity. Additionally, we identify non-monotonic behaviour of slightly aspherical particles at low friction, linking it to their higher fluctuating rotational kinetic energy...  [shortened for brevity]
+**Abstract:** The rheology of dense granular shear flows is influenced by friction and particle shape. We investigate numerically the impact of non-spherical particle geometries under shear on packing fraction, stress ratios, velocity fluctuations, force distribution, and dissipation mechanisms, for a wide range of inertial numbers, friction coefficients and aspect ratios. We obtain a regime diagram for the dissipation which shows that lentil-like (oblate) particles exhibit an extended sliding regime compared to rice-like (prolate) particles with the same degree of eccentricity. Additionally, we identify non-monotonic behaviour of slightly aspherical particles at low friction, linking it to their higher fluctuating rotational kinetic energy...  [shortened for brevity]
 
 [Paper PDF](https://arxiv.org/pdf/2507.04429) | [Code](https://github.com/JBil8/Simple_shear_granular_spheroids.git.) | [Data](https://zenodo.org/doi/10.5281/zenodo.15798936)  
 
@@ -50,13 +45,12 @@ pared to rice-like (prolate) particles with the same degree of eccentricity. Add
 [Paper PDF](https://arxiv.org/abs/2505.14704) 
 
 ### Fluid-mediated Impact of Soft Solids (2024)
-*Journal of Fluid Mechanics, Vol. 997, A35
+*Journal of Fluid Mechanics, Vol. 997, A35*
 
 ![aeronefpaper cover](/assets/img/graphical_abstract.png){: width="400px" }
 
-**Abstract:** A viscous, lubrication-like response can be triggered in a thin film of fluid squeezed between a rigid flat surface and the tip of an incoming projectile. We develop a scaling for this viscous approach stage of fluid-mediated normal impact, applicable to soft impactors. Under the assumption of mediating fluid being incompressible, the impacting solid displays two limit regimes: one dominated by elasticity, and the other by inertia.
-The transition between the two is predicted by a dimensionless parameter, which can be interpreted as the ratio between two time scales that are the time that it takes for the surface waves to warn the leading edge of the impactor of the forthcoming impact, and the characteristic duration of the final viscous phase of the approach. Additionally, we elucidate why nearly incompressible solids feature (a) substantial ‘gliding’ prior to contact
-at the transition between regimes, (b) the largest size of entrapped bubble between the deformed tip of the impactor and the flat surface, and (c) a sudden drop in entrapped bubble radius past the transition between regimes. Finally, we argue that the above time scale ratio (a dimensionless number) can govern the different dynamics reported experimentally for a fluid droplet as a function of its viscosity and surface tension.
+**Abstract:** A viscous, lubrication-like response can be triggered in a thin film of fluid squeezed between a rigid flat surface and the tip of an incoming projectile. We develop a scaling for this viscous approach stage of fluid-mediated normal impact, applicable to soft impactors. Under the assumption of mediating fluid being incompressible, the impacting solid displays two limit regimes: one dominated by elasticity, and the other by inertia. The transition between the two is predicted by a dimensionless parameter, which can be interpreted as the ratio between two time scales that are the time that it takes for the surface waves to warn the leading edge of the impactor of the forthcoming impact, and the characteristic duration of the final viscous phase of the approach. Additionally, we elucidate why nearly incompressible solids feature (a) substantial ‘gliding’ prior to contact ...  [shortened for brevity]
+
 
 [Paper PDF](https://www.nature.com/articles/s41598-024-76983-w) | [Code](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf) | [Data](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)
 
@@ -70,4 +64,4 @@ Used DEM simulations and surrogate models based on gaussian processes to match m
 #### Coating Failure Modelling (2022)
 *Master Thesis, Sapienza University/ASML Holding*
 
-Combination of advanced FEM simulations, nano indentation cleanroom experiments and reduce order modeling to understand and design wafer clamp for the semiconductor industry.
+Combination of advanced FEM simulations, nano indentation cleanroom experiments and reduce order modeling to understand and design wafer clamp coatings for the semiconductor industry

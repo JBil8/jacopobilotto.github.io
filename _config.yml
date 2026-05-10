@@ -21,6 +21,7 @@ author: Jacopo Bilotto
 
 navbar-links:
   About me: "/"
+  CV: "cv"
   Research: "research"
   Software: "software"
   Teaching & Mentoring: "teaching"
