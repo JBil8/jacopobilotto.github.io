@@ -3,16 +3,25 @@ layout: page
 title: Curriculum Vitae
 ---
 
-*(You can also [download my full CV as a PDF here](/assets/pdf/Jacopo_Bilotto_CV.pdf))*
+*(You can also [download my full CV as a PDF here](/files/cv_short.pdf))*
 
 ## Education
 
-* **Ph.D. in Computational Mechanics** | *EPFL, Switzerland* (2023 – Expected 2027)
-  * Thesis: The effect of shape in granular flows and asperity contacts. Advisor: Prof. Jean-François Molinari.
-* **M.S. & B.S. in Mechanical Engineering** | *Sapienza University of Rome, Italy* (2017 – 2023)
-  * *Cum Laude*, Specialization in Computational & Applied Mathematics.
-* **Global Studies & Fundamentals of Business** | *University College Lamaro Pozzani, Italy* (2017 – 2022)
+**Ph.D. in Mechanics (EDME)** | Mar 2023 – Feb 2027 (Expected)
+*EPFL, École Polytechnique Fédérale de Lausanne, Switzerland*
 
+* **Thesis:** The effect of shape in granular flows and asperity (lubricated) contacts
+* **Advisor:** Prof. Jean-François Molinari
+* **Fellowship:** MSCA GlobaLeaders Fellowship
+
+**M.S. & B.S. in Mechanical Engineering** | 2017 – 2023
+*Sapienza, University of Rome, Italy*
+* **Specialization:** Computational and Applied Mathematics
+  
+**Global Studies & Fundamentals of Business** | 2017 – 2022
+*University College Lamaro Pozzani, Rome, Italy*
+Multi-disciplinary program covering Game theory, Economic theory, and Political systems
+ 
 ---
 
 ## Core Expertise
@@ -21,6 +30,8 @@ To address complex engineering and physical challenges, I employ different compu
 
 * **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, Tamaas, Jax) to explore fundamental physics in granular flows and contact mechanics.
 * **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to build efficient models.
+* **Continuum and discrete mechanics:**
+
 
 ---
 
