@@ -21,9 +21,9 @@ author: Jacopo Bilotto
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research: "research"
+  Teaching & Mentorship: "teaching"
+  Software: "software"
   Author's home: "https://deanattali.com"
 
 ################
@@ -70,7 +70,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-google-scholar: https://scholar.google.com/citations?user=QNluAXAAAAAJ&hl=en&oi=sra
+google-scholar: https://scholar.google.com/citations?user=QNluAXAAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "JacopoBilotto.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -123,7 +123,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Jacopo Bilotto, Computational Mechanics, Granular Physics, EPFL, Tribology, SciML, LAMMPS, MSCA Fellow, lubrication"
 
 ######################################
 # --- Colours / background image --- #
@@ -255,7 +255,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Zurich"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
