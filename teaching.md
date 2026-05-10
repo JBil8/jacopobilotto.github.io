@@ -3,6 +3,9 @@ layout: page
 title: Teaching & Mentoring
 ---
 
+"*If you want to master something, teach it. The more you teach, the better you learn.*" In my personal experience Richard Feynman could not be more correct. I truly enjoy learning by teaching and I love it when students have those 'lightbulb' moments.
+
+
 ### Continuum Mechanics and Applications (2024, 2025)
 *Masters' Course, EPFL, Civil and Mechanical engineering*  
 Advanced continuum mechanics class.
