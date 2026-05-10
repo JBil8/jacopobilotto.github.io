@@ -8,7 +8,7 @@ title: Research
 ### Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit (2026)
 *arXiv*
 
-![enf2enf paper cover](/assets/img/overview_inverse_design.pdf){: width="400px" }
+![enf2enf paper cover](/assets/img/overview_inverse_design.png){: width="600px" }
 
 **Abstract:** Programming the static friction of mechanical interfaces is critical for soft robotics, haptics, and precision gripping.
 Static friction is governed by the real contact area, and standard rough surfaces exhibit a linear area-load scaling inherent to classical Archard and Greenwood-Williamson models, severely restricting their functional range. 
@@ -22,7 +22,7 @@ To solve the inverse problem, we embed a fully differentiable contact mechanics 
 ### Mapping the limits of equilibrium in sheared granular liquid crystals (2026)
 *arXiv*
 
-![enf2enf paper cover](/assets/img/screening_gearing_sigmoid_lines.pdf){: width="500px" }
+![enf2enf paper cover](/assets/img/equilibrium_jeffery.png){: width="600px" }
 
 **Abstract:** Athermal elongated particles are well-known to follow Jeffery orbits when sheared in viscous fluids. It is less clear if similar orbits appear in dense granular flows. We show that when sheared for long enough, sufficiently elongated frictionless granular rods, rather than following noisy Jeffery-like orbits, exist in a quasi-equilibrium state, whose orientational statistics are quantitatively described by classical liquid crystal theory, where the noise is provided by collisions due to shear. At the same time, we demonstrate a systematic breakdown of this equilibrium analogy at two distinct limits: at low aspect ratios, where the equilibrium theory incorrectly predicts an isotropic state, and as inter-particle friction is introduced, where the system moves from steric screening to frictional gearing ...  [shortened for brevity]
 
@@ -32,7 +32,7 @@ To solve the inverse problem, we embed a fully differentiable contact mechanics 
 ### Shear Flow of Frictional Spheroids: comparison between elongated and flattened particles (2025)
 *Physical Review E, 112, 045432*
 
-![enf2enf paper cover](/assets/img/figure_1_rheology.pdf){: width="700px" }
+![enf2enf paper cover](/assets/img/figure_1_rheology.png){: width="600px" }
 
 **Abstract:** The rheology of dense granular shear flows is influenced by friction and particle shape. We investigate numerically the impact of non-spherical particle geometries under shear on packing fraction, stress ratios, velocity fluctuations, force distribution, and dissipation mechanisms, for a wide range of inertial numbers, friction coefficients and aspect ratios. We obtain a regime diagram for the dissipation which shows that lentil-like (oblate) particles exhibit an extended sliding regime com-
 pared to rice-like (prolate) particles with the same degree of eccentricity. Additionally, we identify non-monotonic behaviour of slightly aspherical particles at low friction, linking it to their higher fluctuating rotational kinetic energy...  [shortened for brevity]
@@ -52,7 +52,7 @@ pared to rice-like (prolate) particles with the same degree of eccentricity. Add
 ### Fluid-mediated Impact of Soft Solids (2024)
 *Journal of Fluid Mechanics, Vol. 997, A35
 
-![aeronefpaper cover](/assets/img/graphical_abstract.png){: width="500px" }
+![aeronefpaper cover](/assets/img/graphical_abstract.png){: width="400px" }
 
 **Abstract:** A viscous, lubrication-like response can be triggered in a thin film of fluid squeezed between a rigid flat surface and the tip of an incoming projectile. We develop a scaling for this viscous approach stage of fluid-mediated normal impact, applicable to soft impactors. Under the assumption of mediating fluid being incompressible, the impacting solid displays two limit regimes: one dominated by elasticity, and the other by inertia.
 The transition between the two is predicted by a dimensionless parameter, which can be interpreted as the ratio between two time scales that are the time that it takes for the surface waves to warn the leading edge of the impactor of the forthcoming impact, and the characteristic duration of the final viscous phase of the approach. Additionally, we elucidate why nearly incompressible solids feature (a) substantial ‘gliding’ prior to contact
