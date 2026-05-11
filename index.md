@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Jacopo Bilotto
 subtitle: Bridging fundamental mechanics with data-driven engineering 
 ---
 
