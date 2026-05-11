@@ -9,7 +9,7 @@ title: Software
 I recently contributed, with Jibril B. Coulibaly, to extend lammps DEM capabilities to include [superellipsoids](https://github.com/lammps/lammps/pull/4897).
 
 ### Frictional metasurfaces
-ML framework for inverse design of frictional surfaces [available soon]()
+ML framework for inverse design of frictional surfaces [code](https://github.com/JBil8/frictional_metasurfaces_inverse_design)
 
 ### JAX elastohydrodynamic lubrication
 JAX code for GPU accelerate simulations of soft axysimmetric solid cushioned impacts [available soon]()
