@@ -30,7 +30,7 @@ To address complex engineering and physical challenges, I employ different compu
 
 * **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, Tamaas, Jax) to explore fundamental physics in granular flows and contact mechanics.
 * **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to build efficient models.
-* **Continuum and discrete mechanics:**
+* **Continuum and discrete mechanics**
 
 
 ---
