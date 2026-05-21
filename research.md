@@ -6,7 +6,7 @@ title: Research
 ## Publications
 
 ### Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit (2026)
-*arXiv*
+*arXiv, 2605.11012*
 
 ![enf2enf paper cover](/assets/img/overview_inverse_design.png){: width="600px" }
 
@@ -51,7 +51,7 @@ title: Research
 **Abstract:** A viscous, lubrication-like response can be triggered in a thin film of fluid squeezed between a rigid flat surface and the tip of an incoming projectile. We develop a scaling for this viscous approach stage of fluid-mediated normal impact, applicable to soft impactors. Under the assumption of mediating fluid being incompressible, the impacting solid displays two limit regimes: one dominated by elasticity, and the other by inertia. The transition between the two is predicted by a dimensionless parameter, which can be interpreted as the ratio between two time scales that are the time that it takes for the surface waves to warn the leading edge of the impactor of the forthcoming impact, and the characteristic duration of the final viscous phase of the approach. Additionally, we elucidate why nearly incompressible solids feature (a) substantial ‘gliding’ prior to contact ...  [shortened for brevity]
 
 
-[Paper PDF](https://www.nature.com/articles/s41598-024-76983-w) | [Code](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf) | [Data](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)
+[Paper PDF](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/fluidmediated-impact-of-soft-solids/E208CFA7E3181F48FB66DCE0DF20A182) | [Code](https://github.com/JBil8/Fluid-mediated-impact-of-soft-solids)
 
 ## Industrial Collaborations
 
