@@ -51,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: jacopobil8@gmail.com
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: jbil8
   google-scholar: "https://scholar.google.com/citations?user=QNluAXAAAAAJ&hl=en"
   linkedin: https://www.linkedin.com/in/jacopo-bilotto-4331491b4/
